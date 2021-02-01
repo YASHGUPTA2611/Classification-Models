@@ -1,6 +1,6 @@
 # Classification-Models
 
-All of my classificatioj projects are in this repository
+All of my classification projects are in this repository
 
 1. Brest Cancer ML :-
 
