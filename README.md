@@ -8,7 +8,7 @@ This model helps us to predict that the cancer is benign or malignant.
 
 ' breast_cancer.csv' is ther dataset file.
 
-' brest_cancer_feature_analysis.html' is the file of all the visualizations, which heps us in predictions.
+' Breast cancer ml ' is the jupyter notebook, I first recommend to install sweetviz library for better and good prediction. 
 
 
 2. Credit Card fraud :-
