@@ -8,14 +8,14 @@ This model helps us to predict that the cancer is benign or malignant.
 
 ' breast_cancer.csv' is ther dataset file.
 
-' Breast cancer ml ' is the jupyter notebook, I first recommend to install sweetviz library for better and good prediction. 
+' Breast cancer ml ' is the jupyter notebook, I first recommend to install sweetviz library for better and good graphs. 
 
 
 2. Credit Card fraud :-
 
 This is a classification model which helps us to predict that a transaction is fraudulent or genuine.
 
-I have attached a html file('credit_card_feature_analysis.html'), which give us all the visualization for our dataset.
+Install sweetviz library for the visualization. 
 
 You can find the dataset on Kaggle :  https://www.kaggle.com/mlg-ulb/creditcardfraud
 
