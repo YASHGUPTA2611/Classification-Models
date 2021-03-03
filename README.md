@@ -29,6 +29,14 @@ In this classification model we will predict that a person on Titanic has surviv
 You can find the dataset on Kaggle:- https://www.kaggle.com/c/titanic
 
 
+4. Mushroom Classification :-
+ 
+In this jupyter notebook, we will make a machine learning model which helps us to classify that a mushroom is safe to eat or not.
+
+'MUSHROOMS' is the jupyter file for the model and 'mushrooms.csv' is the dataset file.
+
+You can find the dataset on Kaggle :- https://www.kaggle.com/uciml/mushroom-classification
+
 
 
 
