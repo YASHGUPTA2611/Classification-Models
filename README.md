@@ -2,6 +2,8 @@
 
 All of my classification projects are in this repository
 
+Hope you will like it.
+
 1. Brest Cancer ML :-
 
 This model helps us to predict that the cancer is benign or malignant.
@@ -32,6 +34,8 @@ You can find the dataset on Kaggle:- https://www.kaggle.com/c/titanic
 4. Mushroom Classification :-
  
 In this jupyter notebook, we will make a machine learning model which helps us to classify that a mushroom is safe to eat or not.
+
+I have used ' Linear discriminant analysis ' to prevent the Curse of Dimensionality.
 
 'MUSHROOMS' is the jupyter file for the model and 'mushrooms.csv' is the dataset file.
 
